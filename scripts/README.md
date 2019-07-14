@@ -4,3 +4,6 @@
 # pm2
 - pm2 start server.js
 - pm2 list
+
+# ip
+- 206.189.36.175
